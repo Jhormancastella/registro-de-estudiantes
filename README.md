@@ -1,2 +1,2 @@
-# Gesti-n-de-Estudiantes-con-List
-📌 Instrucciones: 1. Pedir al usuario la cantidad de estudiantes que desea registrar. 2. Solicitar los nombres de los estudiantes y almacenarlos en una List&lt;String> . 3. Mostrar la lista completa de estudiantes. 4. Ordenar los nombres en orden alfabético y mostrarlos. 5. Permitir que el usuario busque si un estudiante está en la lista.
+# -Registro-de-Estudiantes-con
+📌 Instrucciones: 1. Pedir al usuario cuántos estudiantes desea registrar. 2. Solicitar el nombre de los estudiantes y almacenarlos en un HashSet&lt;String> . 3. Mostrar la lista de estudiantes. 4. Verificar si un estudiante específico está en la lista.
