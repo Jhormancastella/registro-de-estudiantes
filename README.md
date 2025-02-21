@@ -1,6 +1,6 @@
 # Taller de Java: 
 
-## ejersicio #1 Registro de Estudiantes con HashSet
+## ejersicio #4 Registro de Estudiantes con HashSet
 ## 📌 Propósito
 Este proyecto desarrolla un programa en Java para registrar estudiantes utilizando una estructura de datos `HashSet`, permitiendo almacenar nombres de manera única, mostrar la lista de estudiantes, ordenarla alfabéticamente y verificar la existencia de un estudiante específico.
 
